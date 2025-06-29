@@ -65,6 +65,4 @@ customer-retention-analysis/
 
 ---
 
-## 📫 Contact
 
-For questions, improvements, or collaborations — feel free to reach out on [LinkedIn](https://linkedin.com).
