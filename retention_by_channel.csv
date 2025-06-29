@@ -1,0 +1,4 @@
+channel,total_customers,retained_customers,retention_rate_percent
+Organic,5,4,80.00
+Referral,2,1,50.00
+"Paid Social",1,0,0.00
