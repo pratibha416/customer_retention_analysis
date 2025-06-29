@@ -1,0 +1,6 @@
+customer_id,signup_date,channel,total_revenue,total_orders,avg_order_value,customer_lifetime_days,churn_status
+C001,2022-01-10,Organic,1300.00,4,325.00,67,Active
+C005,2022-02-10,Referral,500.00,1,500.00,19,Churned
+C004,2022-02-01,Organic,300.00,1,300.00,19,Churned
+C002,2022-01-12,Referral,180.00,1,180.00,6,Churned
+C003,2022-01-15,"Paid Social",0.00,0,0.00,NULL,Churned
